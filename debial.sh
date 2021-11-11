@@ -12,7 +12,7 @@ shell
 nvm install node
 nvm install --lts
 
-npm i -g @types/node typescript browser-sync npm-check-updates prettier eslint commitizen
+npm i -g @types/node typescript browser-sync npm-check-updates prettier eslint commitizen standard-version
 
 sudo apt-get install build-essential gdb -y
 
