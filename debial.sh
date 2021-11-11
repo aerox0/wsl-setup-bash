@@ -1,4 +1,5 @@
 sudo apt update && sudo apt upgrade -y && sudo apt dist-upgrade -y
+sudo apt install git-flow
 
 git config --global user.name "$1"
 git config --global user.email "$2"
