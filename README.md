@@ -2,5 +2,5 @@
 
 ## Debian
 ```
-wget -O - https://raw.githubusercontent.com/aerox0/wsl-setup-bash/main/debial.sh | bash
+wget -O - https://raw.githubusercontent.com/aerox0/wsl-setup-bash/main/debian.sh | bash
 ```
