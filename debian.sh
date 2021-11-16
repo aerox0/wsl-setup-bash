@@ -12,6 +12,6 @@ nvm install --lts
 
 npm i -g @types/node typescript browser-sync npm-check-updates prettier eslint commitizen standard-version
 
-sudo apt install build-essential gdb -y
+sudo apt install build-essential gdb python3-pip python3-venv -y
 
 sudo ln -s /usr/bin/python3 /usr/local/bin/python
