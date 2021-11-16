@@ -9,7 +9,6 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
 
 nvm install node
 nvm install --lts
-nvm alias default current
 
 npm i -g @types/node typescript browser-sync npm-check-updates prettier eslint commitizen standard-version
 
