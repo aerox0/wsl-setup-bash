@@ -1,6 +1,6 @@
 # How to use
 
-# ZSH
+## ZSH
 
 After execute this script u have to change fifth line in ~/.zshrc to export ZSH="/home/[user]/.oh-my-zsh" 
 
