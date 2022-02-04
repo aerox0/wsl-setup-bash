@@ -13,7 +13,7 @@ nvm install node
 nvm install --lts
 nvm alias default 16
 
-npm i -g @types/node typescript browser-sync npm-check-updates prettier eslint commitizen standard-version
+npm i -g @types/node typescript browser-sync npm-check-updates prettier eslint commitizen standard-version yarn
 
 sudo apt install build-essential gdb python3-pip python3-venv -y
 
