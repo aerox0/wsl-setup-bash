@@ -1,5 +1,5 @@
 sudo apt update && sudo apt upgrade -y && sudo apt dist-upgrade -y
-sudo apt install git-flow python3 wget curl
+sudo apt install git-flow python3 wget curl -y
 
 git config --global user.name "$1"
 git config --global user.email "$2"
